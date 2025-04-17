@@ -23,17 +23,18 @@ I use it to keep my dev setup in sync across different devices (macOS, Windows, 
 git clone https://github.com/thoni-miguel/lazyvim-config.git ~/.config/nvim
 ```
 
-3. Open neovim:
+1. Open neovim:
 
 ```bash
 nvim
 ```
 
-4. **Notes**:
+1. **Notes**:
+
    - Dotfiles are visible in Snacks (explorer) by default
    - Prettier and ESLint use conform.nvim
 
-5. **Optional Tools (recommended)**
+2. **Optional Tools (recommended)**
    - ripgrep (brew install ripgrep)
    - eslint_d
    - prettier
